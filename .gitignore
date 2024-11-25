@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+dist/
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.swp
+
+# npm
+package-lock.json
+yarn-error.log
+.npmrc
+.npm/
+.yarn/
+.pnpm-debug.log*
+
+# Build output
+build/
+coverage/
+*.map
+
+# Environment
+.env
+.env.*
